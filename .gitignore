@@ -1,7 +1,8 @@
 .env
 node_modules
 .idea
-logs
+logs/*
+!logs/.gitkeep
 .jshintrc
 .jshintignore
 package-lock.json
